@@ -7,9 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Chatbot Project
 Description: QuoraBot is a bot that will give hot topics of question for today, as well as searching questions you may have. Feel free to test it out below!
+
 Link to bot: m.me/363611697426073
+
 Chatbot Page: https://www.facebook.com/ChatBot-363611697426073/
-![filter](Arkymongoose.jpg?raw=true "ChatBot")
+
+![filter](Chatbot.jpg?raw=true "ChatBot")
 
 
 ### Editing Information
