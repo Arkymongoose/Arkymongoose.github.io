@@ -14,6 +14,10 @@ Chatbot Page: https://www.facebook.com/ChatBot-363611697426073/
 
 ![filter](Chatbot.jpg?raw=true "ChatBot")
 
+## Camera Effects Project
+Description: I have created a horse mask effect, that people can use on their face.
+
+![picture_title](picture filename?raw=true "Horse Mask")
 
 ### Editing Information
 
